@@ -1,0 +1,6 @@
+c:\users\t4ng1\documents\visual studio 2015\Projects\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+c:\users\t4ng1\documents\visual studio 2015\Projects\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+c:\users\t4ng1\documents\visual studio 2015\Projects\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojResolveAssemblyReference.cache
+c:\users\t4ng1\documents\visual studio 2015\Projects\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
